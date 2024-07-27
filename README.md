@@ -23,6 +23,9 @@
 |0x5c|92|Encrypted flag (only for .AUE)|uint8|1|
 |0x5d|93|AUE encryption key (only for .AUE)|uint16_le|2|
 
+### Film name
+If the name begins with `SETUP` the disc (reel?) will auto-play without time code
+
 ### Reel number
 13 = Trailer, iff Serial number equals 1253
 
