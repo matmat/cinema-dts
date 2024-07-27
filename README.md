@@ -3,7 +3,8 @@
 ## .AUD/.AUE File format
 |Offset||Field|Format|Length|
 |-|-|-|-|-|
-|0x00|0|Film name|zstr|60|
+|0x00|0|Film name|zstr|18|
+|0x12|18|Unused?|0|42|
 |0x3c|60|Language|zstr|8|
 |0x44|68|Studio|zstr|7|
 |0x4b|75|bit field (bits [0:2], 7 used)|uint8|1|
