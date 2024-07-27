@@ -11,3 +11,9 @@
 |0x50|80|Serial number|uint16_le|2|
 |0x5c|92|Encrypted flag|uint8|1|
 |0x5d|93|AUE encryption key|uint16_le|2|
+
+### Reel number
+13 = Trailer, iff Serial number equals 1253
+14 = Trailer
+15 = Trailer, iff Serial number equals 1004
+Everything else is a Feauture
