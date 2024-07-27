@@ -20,8 +20,8 @@
 |0x59|89|End second|bcd|1|
 |0x5a|90|End minute|bcd|1|
 |0x5b|91|End hour|bcd|1|
-|0x5c|92|Encrypted flag|uint8|1|
-|0x5d|93|AUE encryption key|uint16_le|2|
+|0x5c|92|Encrypted flag (only for .AUE)|uint8|1|
+|0x5d|93|AUE encryption key (only for .AUE)|uint16_le|2|
 
 ### Reel number
 13 = Trailer, iff Serial number equals 1253
