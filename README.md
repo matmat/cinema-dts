@@ -6,7 +6,7 @@
 |0x00|0|Film name|zstr|60|
 |0x3c|60|Language|zstr|8|
 |0x44|68|Studio|zstr|7|
-|0x4b|75|Optical fall-back format|uint8|1|
+|0x4b|75|bit field (bit [0:2], 7 used|uint8|1|
 |0x4c|76|Unknown|uint16_le|2|
 |0x4e|78|Reel number|uint16_le|2|
 |0x50|80|Serial number|uint16_le|2|
