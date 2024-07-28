@@ -39,6 +39,8 @@ Everything else is a Feauture
 - [APT-x100 Decoder Input PlugIn for Foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
 - [MediaInfoLib/Source/MediaInfo/Audio/File_Aptx100.cpp](https://github.com/MediaArea/MediaInfoLib/blob/master/Source/MediaInfo/Audio/File_Aptx100.cpp)
 - [35mm-sound repository by David Ferguson](https://github.com/davidferguson/35mm-sound)
+- [DTS XD10/XD20 v2.2.06 software INSTALL disc](http://www.film-tech.com/warehouse/manuals/DTS-XD10-XD20_v2.2.06_InstallWithNotes.zip)
+  - Decompiling `dts/home/dts/bin/ControlMgr` inside `xd10/dts.tar.gz` is a good way to understand the file format better
 - [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
 ### Forum threads on film-tech.com
 - (2023-04-16) [DTS and serial numbers](http://www.film-tech.com/vbb/forum/digital-cinema-forum/28838-dts-and-serial-numbers)
