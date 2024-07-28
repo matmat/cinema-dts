@@ -38,6 +38,7 @@ Everything else is a Feauture
 ## Useful links
 - [APT-x100 Decoder Input PlugIn for Foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
 - [MediaInfoLib/Source/MediaInfo/Audio/File_Aptx100.cpp](https://github.com/MediaArea/MediaInfoLib/blob/master/Source/MediaInfo/Audio/File_Aptx100.cpp)
+- [35mm-sound repository by David Ferguson](https://github.com/davidferguson/35mm-sound)
 - [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
 ### Forum threads on film-tech.com
 - (2023-04-16) [DTS and serial numbers](http://www.film-tech.com/vbb/forum/digital-cinema-forum/28838-dts-and-serial-numbers)
@@ -52,6 +53,7 @@ Everything else is a Feauture
 - (2020-02-20) [Coping DTS audio files from a DTS player](http://film-tech.com/vbb/forum/digital-cinema-forum/1114-coping-dts-audio-files-from-a-dts-player)
 - (2019-01-12) [DTS Disks hack](http://www.film-tech.com/ubb/f1/t012390.html)
 - (2018-03-26) [What is DTS CD track order for 8-track *.AUD file?](http://www.film-tech.com/ubb/f1/t012286.html)
+- (2017-10-15) [XD10 w/SMPTE timecode](http://www.film-tech.com/ubb/f1/t012210.html)
 - (2016-07-29) [DAC decoder(s) in DTS-6D](http://www.film-tech.com/ubb/f1/t012031.html)
 - (2015-04-20) [APX files on DTS disc?](http://www.film-tech.com/ubb/f1/t011814.html)
 - (2004-06-12) [APT X-100 Encoding](http://www.film-tech.com/ubb/f1/t006266.html)
