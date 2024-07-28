@@ -35,6 +35,13 @@ If the name begins with `SETUP` the disc (reel?) will auto-play without time cod
 
 Everything else is a Feauture
 
+## Sample files
+- [DTS Trailer Disc January 30, 2004](https://archive.org/details/dts_cinema_audio_collection)
+- [DTS Trailer Disc June 25, 2004](https://archive.org/details/dts_06-25-2004)
+- [DTS Trailer Disc November 5, 2004](https://archive.org/details/dts_11-05-2004)
+- [DTS DS3 setup disc](http://www.film-tech.com/warehouse/manuals/DS3.iso.gz)
+- [DTS ES1 test disc](http://www.film-tech.com/warehouse/manuals/ES1.zip)
+
 ## Useful links
 - [APT-x100 Decoder Input PlugIn for Foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
 - [MediaInfoLib/Source/MediaInfo/Audio/File_Aptx100.cpp](https://github.com/MediaArea/MediaInfoLib/blob/master/Source/MediaInfo/Audio/File_Aptx100.cpp)
