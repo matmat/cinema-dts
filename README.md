@@ -35,6 +35,9 @@ If the name begins with `SETUP` the disc (reel?) will auto-play without time cod
 
 Everything else is a Feauture
 
+### Serial number
+Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and trailers.
+
 ## Sample files
 - [DTS Trailer Disc January 30, 2004](https://archive.org/details/dts_cinema_audio_collection)
 - [DTS Trailer Disc June 25, 2004](https://archive.org/details/dts_06-25-2004)
