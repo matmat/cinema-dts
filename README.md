@@ -7,7 +7,7 @@
 |0x12|18|Unused?|0|42|
 |0x3c|60|Language|zstr|8|
 |0x44|68|Studio|zstr|7|
-|0x4b|75|bit 0-2: Unknown<br>bit 3-6: Unused?<br>bit 7: Set if last reel of a feature|uint8|1|
+|0x4b|75|Fall-back format|uint8|1|
 |0x4c|76|Unknown|uint16_le|2|
 |0x4e|78|Reel number|uint16_le|2|
 |0x50|80|Serial number|uint16_le|2|
@@ -26,11 +26,18 @@
 ### Film name
 If the name begins with `SETUP` the disc (reel?) will auto-play without time code
 
+### Fall-back format
+0x00 = Dolby A  
+0x01 = Dolby SR  
+0x02 = Academy  
+0x80 = Nonsync at any position of the reel  
+0x81 = Nonsync within the last minute of the reel, usually used for the last reel
+
+See [this post](http://www.film-tech.com/cgi-bin/ubb/f1/t012390/p3.html#000033) by Michael Zarits on Film-Tech.
+
 ### Reel number
-13 = Trailer, iff Serial number equals 1253
-
-14 = Trailer
-
+13 = Trailer, iff Serial number equals 1253  
+14 = Trailer  
 15 = Trailer, iff Serial number equals 1004
 
 Everything else is a Feauture
