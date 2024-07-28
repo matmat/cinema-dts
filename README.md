@@ -53,7 +53,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - [DTS ES1 test disc](http://www.film-tech.com/warehouse/manuals/ES1.zip)
 
 ## Useful links
-- [APT-x100 Decoder Input PlugIn for Foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
+- [APT-x100 Decoder Input PlugIn for foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
 - [MediaInfoLib/Source/MediaInfo/Audio/File_Aptx100.cpp](https://github.com/MediaArea/MediaInfoLib/blob/master/Source/MediaInfo/Audio/File_Aptx100.cpp)
 - [35mm-sound repository by David Ferguson](https://github.com/davidferguson/35mm-sound)
 - [DTS XD10/XD20 v2.2.06 software INSTALL disc](http://www.film-tech.com/warehouse/manuals/DTS-XD10-XD20_v2.2.06_InstallWithNotes.zip)
