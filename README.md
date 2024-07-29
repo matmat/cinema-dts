@@ -20,8 +20,10 @@
 |0x59|89|End second|bcd|1|
 |0x5a|90|End minute|bcd|1|
 |0x5b|91|End hour|bcd|1|
-|0x5c|92|Encrypted flag (only for .AUE)|uint8|1|
-|0x5d|93|AUE encryption key (only for .AUE)|uint16_le|2|
+|0x5c|92|0x01 if encrypted (only for .AUE/.APX)|uint8|1|
+|0x5d|93|Encryption key (only for .AUE/.APX)|uint16_le|2|
+|0x5f|95|0x01 if watermarked (only for .APX)|uint8|1|
+
 
 ### Film name
 If the name begins with `SETUP` the disc (reel?) will auto-play without time code
