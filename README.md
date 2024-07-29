@@ -20,9 +20,17 @@
 |0x59|89|End second|bcd|1|
 |0x5a|90|End minute|bcd|1|
 |0x5b|91|End hour|bcd|1|
+
+If byte 0x5c is 0x01, then there is an additional 40 byte header:
+
+|Offset||Field|Format|Length|
+|-|-|-|-|-|
 |0x5c|92|0x01 if encrypted (only for .AUE/.APX)|uint8|1|
 |0x5d|93|Encryption key (only for .AUE/.APX)|uint16_le|2|
-|0x5f|95|0x01 if watermarked (only for .APX)|uint8|1|
+|0x5f|95|Unknown watermark flag, 0x01 if enabled (only for .APX)|uint8|1|
+|0x60|96|Unknown watermark flag, 0x01 if enabled (only for .APX)|uint8|1|
+|0x61|97|Unused (always zero?)|-|5|
+|0x66|102|Unknown watermark data (only used for .APX)|-|30|
 
 
 ### Film name
