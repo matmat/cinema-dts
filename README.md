@@ -56,6 +56,7 @@ Everything else is a Feauture
 Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and trailers.
 
 ## Sample files
+- [https://stuff.mit.edu/afs/sipb/user/jhawk/dts/](https://stuff.mit.edu/afs/sipb/user/jhawk/dts/)
 - [DTS Trailer Disc January 30, 2004](https://archive.org/details/dts_cinema_audio_collection)
 - [DTS Trailer Disc June 25, 2004](https://archive.org/details/dts_06-25-2004)
 - [DTS Trailer Disc November 5, 2004](https://archive.org/details/dts_11-05-2004)
