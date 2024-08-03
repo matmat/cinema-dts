@@ -69,6 +69,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - [35mm-sound repository by David Ferguson](https://github.com/davidferguson/35mm-sound)
 - [DTS XD10/XD20 v2.2.06 software INSTALL disc](http://www.film-tech.com/warehouse/manuals/DTS-XD10-XD20_v2.2.06_InstallWithNotes.zip)
   - Decompiling `dts/home/dts/bin/ControlMgr` inside `xd10/dts.tar.gz` is a good way to understand the file format better
+- [dtsgrab and dtsprep sh scripts by John Hawkinson](https://web.mit.edu/afs/sipb.mit.edu/user/jhawk/src/dts/)
 - ["DTS Extractor.exe" by Markus Lemm](http://www.film-tech.com/warehouse/manuals/DTSExtractor.zip)
 - [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
 - [DTS - How to fit "Return of the King" (and other 3 disc movies) onto 2 dts discs](http://www.film-tech.com/warehouse/index.php?category=5)
