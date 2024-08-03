@@ -73,7 +73,9 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
 - [DTS - How to fit "Return of the King" (and other 3 disc movies) onto 2 dts discs](http://www.film-tech.com/warehouse/index.php?category=5)
 
-### Forum threads on film-tech.com
+### Forum threads
+
+#### film-tech.com
 - (2023-04-16) [DTS and serial numbers](http://www.film-tech.com/vbb/forum/digital-cinema-forum/28838-dts-and-serial-numbers)
 - (2023-03-11) [DTS Special Venue list - help is welcome!](http://www.film-tech.com/vbb/forum/digital-cinema-forum/27934-dts-special-venue-list-help-is-welcome)
 - (2022-08-04) [Film sound codec bitrate](http://www.film-tech.com/vbb/forum/digital-cinema-forum/22725-film-sound-codec-bitrate)
@@ -97,3 +99,5 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - (2003-04-03) [Is "The Animatrix" in dts?](http://www.film-tech.com/ubb/f1/t004750.html)
 - (2001-04-03) [DTS trailer files - can they be copied to another DTS disk?](http://www.film-tech.com/cgi-bin/ubb/f1/t002111.html)
   
+#### fanres.com
+- (2015-07-15) [Datasat Digital Sound](https://forum.fanres.com/thread-501.html)
