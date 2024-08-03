@@ -109,3 +109,6 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
   
 #### fanres.com
 - (2015-07-15) [Datasat Digital Sound](https://forum.fanres.com/thread-501.html)
+
+#### fanrestore.com
+- (2021-01-31) [How to decode 6-track APTX-100 (cinema DTS) with the correct channel levels](https://fanrestore.com/thread-3767.html)
