@@ -1,4 +1,4 @@
-# Cinema DTS (APT-X100) File Format
+# Cinema DTS (APT-X100)
 
 ## .AUD/.AUE/.APX File format
 |Offset||Field|Format|Length|
@@ -62,6 +62,23 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - [DTS Trailer Disc November 5, 2004](https://archive.org/details/dts_11-05-2004)
 - [DTS DS3 setup disc](http://www.film-tech.com/warehouse/manuals/DS3.iso.gz)
 - [DTS ES1 test disc](http://www.film-tech.com/warehouse/manuals/ES1.zip)
+
+## Third party decoders
+### [APT-x100 Decoder Input PlugIn by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
+Decoder plugin for foobar2000. First version released 2014-06-15. Actively developed, the latest version (v0.3.0) released 2024-05-20 can decode all known variants (.AUD/.AUE/.APX).
+
+### APT-X100 DTS Decoder v1.0 by ECLiPSE
+Winamp plugin and stand-alone decoder released 2003-03-11 for Winamp v2.81 and v2.91. Plays only .AUD (unencrypted) files. SHA-1 file hashes according to  `ECLiPSE.NFO` in the release:  
+
+[6039adfe7edac9a4dc23afec91c9d47b75bf5d57](https://www.virustotal.com/gui/file/6039adfe7edac9a4dc23afec91c9d47b75bf5d57)  `in_APTX.dll`  
+[ac03c3f546a734b9c210d2c67aab66d3fbaf42c7](https://www.virustotal.com/gui/file/6039adfe7edac9a4dc23afec91c9d47b75bf5d57)  `apt-x100.dts.decoder.v1.0.exe`  
+
+According to Virustotal these binaries are obfuscated using "tElock 0.99 - 1.0 private -> tE!". Both are also flagged as malware by several scanners (which may be a false positive).
+
+### [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
+
+This is not (yet) a working decoder. It contains code to display parts of the header from DTS Cinema files
+
 
 ## Useful links
 - [APT-x100 Decoder Input PlugIn for foobar2000 by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
