@@ -88,4 +88,5 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - (2015-04-20) [APX files on DTS disc?](http://www.film-tech.com/ubb/f1/t011814.html)
 - (2004-06-12) [APT X-100 Encoding](http://www.film-tech.com/ubb/f1/t006266.html)
 - (2004-03-22) [DTS to use Lossless encoding for cinema audio](http://www.film-tech.com/ubb/f1/t005983.html)
+- (2003-07-30) [Fun things to do with a DTS DS3 disc](http://www.film-tech.com/ubb/f1/t005157.html)
   
