@@ -97,6 +97,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - (2004-03-22) [DTS to use Lossless encoding for cinema audio](http://www.film-tech.com/ubb/f1/t005983.html)
 - (2003-07-30) [Fun things to do with a DTS DS3 disc](http://www.film-tech.com/ubb/f1/t005157.html)
 - (2003-04-03) [Is "The Animatrix" in dts?](http://www.film-tech.com/ubb/f1/t004750.html)
+- (2002-04-04) [DTS and Policy trailers](http://www.film-tech.com/ubb/f1/t003262.html)
 - (2001-04-03) [DTS trailer files - can they be copied to another DTS disk?](http://www.film-tech.com/cgi-bin/ubb/f1/t002111.html)
   
 #### fanres.com
