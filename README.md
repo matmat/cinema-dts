@@ -3,8 +3,7 @@
 ## .AUD/.AUE/.APX File format
 |Offset||Field|Format|Length|
 |-|-|-|-|-|
-|0x00|0|Film name|zstr|18|
-|0x12|18|Unused?|0|42|
+|0x00|0|Film name|zstr|60|
 |0x3c|60|Language|zstr|8|
 |0x44|68|Studio|zstr|7|
 |0x4b|75|Fall-back format|uint8|1|
@@ -34,7 +33,8 @@ If byte 0x5c is 0x01 or 0x02, then there is an additional 40 byte header:
 
 
 ### Film name
-If the name begins with `SETUP` the disc (reel?) will auto-play without time code
+If the name begins with `SETUP` the disc (reel?) will auto-play without time code.  
+Some systems (e.g. XD10) Some systems (e.g. XD10) reads only the first 18 bytes, but there are longer strings in the wild, e.g. `SETUP - Pink Noise Center` (26 bytes including '\0') from the ES Test Disc.
 
 ### Fall-back format
 0x00 = Dolby A  
