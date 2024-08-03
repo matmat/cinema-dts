@@ -96,6 +96,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - (2012-06-07) [Topic: DTS--6AD playback w/o timecode](http://www.film-tech.com/ubb/f1/t011245.html)
 - (2008-01-31) [DTS Trailer Discs - what to do with them](http://www.film-tech.com/cgi-bin/ubb/f1/t009095/p1.html)
 - (2007-01-19) [Can you run DTS trailer disk with two drive unit?](http://www.film-tech.com/ubb/f1/t008475.html)
+- (2005-02-12) [New dts AUE files](http://www.film-tech.com/ubb/f1/t006948.html)
 - (2004-06-12) [APT X-100 Encoding](http://www.film-tech.com/ubb/f1/t006266.html)
 - (2004-03-22) [DTS to use Lossless encoding for cinema audio](http://www.film-tech.com/ubb/f1/t005983.html)
 - (2003-07-30) [Fun things to do with a DTS DS3 disc](http://www.film-tech.com/ubb/f1/t005157.html)
