@@ -88,6 +88,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - (2017-10-15) [XD10 w/SMPTE timecode](http://www.film-tech.com/ubb/f1/t012210.html)
 - (2016-07-29) [DAC decoder(s) in DTS-6D](http://www.film-tech.com/ubb/f1/t012031.html)
 - (2015-04-20) [APX files on DTS disc?](http://www.film-tech.com/ubb/f1/t011814.html)
+- (2012-11-28) [1993-94 DTS audio??](http://www.film-tech.com/ubb/f1/t011351.html)
 - (2012-06-07) [Topic: DTS--6AD playback w/o timecode](http://www.film-tech.com/ubb/f1/t011245.html)
 - (2004-06-12) [APT X-100 Encoding](http://www.film-tech.com/ubb/f1/t006266.html)
 - (2004-03-22) [DTS to use Lossless encoding for cinema audio](http://www.film-tech.com/ubb/f1/t005983.html)
