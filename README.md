@@ -70,6 +70,8 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
   - Decompiling `dts/home/dts/bin/ControlMgr` inside `xd10/dts.tar.gz` is a good way to understand the file format better
 - ["DTS Extractor.exe" by Markus Lemm](http://www.film-tech.com/warehouse/manuals/DTSExtractor.zip)
 - [dtsc plugins for xmms and winamp by Gary Kramlich](https://sourceforge.net/projects/in-dtsc/)
+- [DTS - How to fit "Return of the King" (and other 3 disc movies) onto 2 dts discs](http://www.film-tech.com/warehouse/index.php?category=5)
+
 ### Forum threads on film-tech.com
 - (2023-04-16) [DTS and serial numbers](http://www.film-tech.com/vbb/forum/digital-cinema-forum/28838-dts-and-serial-numbers)
 - (2023-03-11) [DTS Special Venue list - help is welcome!](http://www.film-tech.com/vbb/forum/digital-cinema-forum/27934-dts-special-venue-list-help-is-welcome)
