@@ -121,6 +121,7 @@ This is not (yet) a working decoder. It contains code to display parts of the he
 - (2003-07-30) [Fun things to do with a DTS DS3 disc](http://www.film-tech.com/ubb/f1/t005157.html)
 - (2003-04-03) [Is "The Animatrix" in dts?](http://www.film-tech.com/ubb/f1/t004750.html)
 - (2003-03-30) [The unexplained in DTS](http://www.film-tech.com/ubb/f1/t004729.html)
+- (2003-05-14) [DTS disk serial numbers?](http://www.film-tech.com/ubb/f1/t004890.html)
 - (2003-03-20) [Jurassic Park (Request)](http://www.film-tech.com/ubb/f3/t000835.html)
 - (2002-04-04) [DTS and Policy trailers](http://www.film-tech.com/ubb/f1/t003262.html)
 - (2001-04-03) [DTS trailer files - can they be copied to another DTS disk?](http://www.film-tech.com/cgi-bin/ubb/f1/t002111.html)
