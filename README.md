@@ -68,6 +68,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - DTS-6D
 - DTS-6SV
 - DTS-6AD
+- DTS-P8
 - DTS XD10
 - DTS XD20
 
