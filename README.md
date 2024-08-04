@@ -120,6 +120,7 @@ This is not (yet) a working decoder. It contains code to display parts of the he
 - (2017-10-15) [XD10 w/SMPTE timecode](http://www.film-tech.com/ubb/f1/t012210.html)
 - (2016-07-29) [DAC decoder(s) in DTS-6D](http://www.film-tech.com/ubb/f1/t012031.html)
 - (2015-04-20) [APX files on DTS disc?](http://www.film-tech.com/ubb/f1/t011814.html)
+- (2013-09-17) [DTS Bad Reel?](http://www.film-tech.com/ubb/f1/t011516.html)
 - (2012-11-28) [1993-94 DTS audio??](http://www.film-tech.com/ubb/f1/t011351.html)
 - (2012-06-07) [Topic: DTS--6AD playback w/o timecode](http://www.film-tech.com/ubb/f1/t011245.html)
 - (2008-01-31) [DTS Trailer Discs - what to do with them](http://www.film-tech.com/cgi-bin/ubb/f1/t009095/p1.html)
