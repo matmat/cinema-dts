@@ -63,6 +63,13 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 - [DTS DS3 setup disc](http://www.film-tech.com/warehouse/manuals/DS3.iso.gz)
 - [DTS ES1 test disc](http://www.film-tech.com/warehouse/manuals/ES1.zip)
 
+## Playback hardware
+- DTS-6
+- DTS-6D
+- DTS-6AD
+- DTS XD10
+- DTS XD20
+
 ## Third party decoders
 ### [APT-x100 Decoder Input PlugIn by Maxim V. Anisiutkin](https://sourceforge.net/projects/dvdadecoder/files/foo_input_apt-x100/)
 Decoder plugin for foobar2000. First version released 2014-06-15. Actively developed, the latest version (v0.3.0) released 2024-05-20 can decode all known variants (.AUD/.AUE/.APX).
@@ -124,6 +131,7 @@ This is not (yet) a working decoder. It contains code to display parts of the he
 - (2003-05-14) [DTS disk serial numbers?](http://www.film-tech.com/ubb/f1/t004890.html)
 - (2003-03-20) [Jurassic Park (Request)](http://www.film-tech.com/ubb/f3/t000835.html)
 - (2002-04-04) [DTS and Policy trailers](http://www.film-tech.com/ubb/f1/t003262.html)
+- (2001-12-14) [DTS switchback to SR at end of feature](http://www.film-tech.com/ubb/f1/t002878.html)
 - (2001-04-03) [DTS trailer files - can they be copied to another DTS disk?](http://www.film-tech.com/cgi-bin/ubb/f1/t002111.html)
   
 #### fanres.com
