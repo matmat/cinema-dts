@@ -66,6 +66,7 @@ Serial numbers with bit 15 set (>=32768) is DTS-ES. For both features and traile
 ## Playback hardware
 - DTS-6
 - DTS-6D
+- DTS-6SV
 - DTS-6AD
 - DTS XD10
 - DTS XD20
