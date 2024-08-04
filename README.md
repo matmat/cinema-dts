@@ -6,7 +6,7 @@
 |0x00|0|Film name|zstr|60|
 |0x3c|60|Language|zstr|8|
 |0x44|68|Studio|zstr|7|
-|0x4b|75|Fall-back format|uint8|1|
+|0x4b|75|Fallback format|uint8|1|
 |0x4c|76|Unknown|uint16_le|2|
 |0x4e|78|Reel number|uint16_le|2|
 |0x50|80|Serial number|uint16_le|2|
@@ -36,14 +36,16 @@ If byte 0x5c is 0x01 or 0x02, then there is an additional 40 byte header:
 If the name begins with `SETUP` the disc (reel?) will auto-play without time code.  
 Some systems (e.g. XD10) Some systems (e.g. XD10) reads only the first 18 bytes, but there are longer strings in the wild, e.g. `SETUP - Pink Noise Center` (26 bytes including '\0') from the ES Test Disc.
 
-### Fall-back format
-0x00 = Dolby A  
-0x01 = Dolby SR  
-0x02 = Academy  
-0x80 = Nonsync at any position of the reel  
-0x81 = Nonsync within the last minute of the reel, usually used for the last reel
+### Fallback format
+Bits 0-2:  
+0 = Dolby A  
+1 = Dolby SR  
+2 = Mono  
 
-See [this post](http://www.film-tech.com/cgi-bin/ubb/f1/t012390/p3.html#000033) by Michael Zarits on Film-Tech.
+Bit 7:  
+1 = Last reel of feauture. Fallback will always be Non-Sync within the last two minutes.
+
+See [this post](http://www.film-tech.com/cgi-bin/ubb/f1/t012390/p3.html#000033) by Michael Zarits on Film-Tech and section 7.5.3 of the XD10 manual.
 
 ### Reel number
 13 = Trailer, iff Serial number equals 1253  
